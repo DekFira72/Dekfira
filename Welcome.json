@@ -1,12 +1,6 @@
-Welcome broh
+ alert "Welcome broh" 
+   prompt "Masukkan Namamu" 
 
-
-Apa yang anda inginkan disini? 
-
-
-1. Spam WA
-2. Hack Wifi
-3. Lacak Akun
 
 
 
